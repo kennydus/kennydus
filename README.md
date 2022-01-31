@@ -5,9 +5,10 @@
 
 Here are some ideas to get you started:
 
+
+
+-->
 - I’m currently studying Computer Science at CSULB!
 - My hobbies include playing video games and learning about cars.
 - I enjoy spending time with friends and family.
 - Python is one of my favorite languages.
-
--->
